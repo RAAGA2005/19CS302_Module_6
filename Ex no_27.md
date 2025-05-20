@@ -4,7 +4,7 @@
 To write a C program that demonstrates the use of typedef to create a new alias name for a data type.
 
 ## Algorithm
-1.Start
+1.Start 
 2.Declare a new alias uint for unsigned int using typedef.
 3.Define a structure with two members: name (character array) and age (integer).
 4.Create a new alias Person for the structure using typedef.
